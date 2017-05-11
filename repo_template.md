@@ -32,6 +32,12 @@ _Add some here_
 
 _Add some here_
 
+## Maintainers
+
+This is an open source project; if you want to be a maintainer, you can be! Just open an issue asking if you can come on board. For now, these people manage this project:
+
+[@usser](https://github.com/user)
+
 ## Contribute
 
 Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/<city>/issues/new).
